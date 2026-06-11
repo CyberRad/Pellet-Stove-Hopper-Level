@@ -16,8 +16,7 @@ A compact, wireless ultrasonic sensor project for monitoring the pellet level in
 
 - **DFRobot FireBeetle 2 ESP32-C6**
 - **A02YYUW** Waterproof Ultrasonic Sensor
-- 3.7V LiPo battery (or suitable power source)
-- Jumper wires
+- USB-C power adapter or 3.7V LiPo battery
 
 ### Wiring
 
